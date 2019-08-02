@@ -1,0 +1,5 @@
+object,color,name,depth_order,km_from_previous,reference
+jupiter,#542a3e,rock,0,7,Astonomy OpenStax textbook Figure 11.7
+jupiter,#e6dfcf,ice,1,7,Astonomy OpenStax textbook Figure 11.7
+jupiter,#9cbfab,metallic hydrogen,2,45,Astonomy OpenStax textbook Figure 11.7
+jupiter,#527d7a,molecular hydrogen,3,12,Astonomy OpenStax textbook Figure 11.7
